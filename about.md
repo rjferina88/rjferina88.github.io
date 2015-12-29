@@ -12,4 +12,4 @@ I also have a gang of alts in WOW, including Shaman, Hunters, Rogues and Mages. 
 
 ### Contact me
 
-[email@domain.com](mailto:rjferina@gmail.com)
+[rjferina@gmail.com](mailto:rjferina@gmail.com)
