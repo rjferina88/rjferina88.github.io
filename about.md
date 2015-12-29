@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi! I'm RJ, and WOW player, semi-competent hacker, and web experimenter. I play an Undead Warlock in WOW.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I also have a gang of alts in WOW, including Shaman, Hunters, Rogues and Mages. Do I have a favorite? I guess it depends on what day it is.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:rjferina@gmail.com)
